@@ -1,2 +1,2 @@
-# Directory
+# Machine Learning Basics
 General
